@@ -1,0 +1,16 @@
+debug/color.o
+debug/sim.o
+debug/xevent.o
+debug/circle.o
+debug/ellipse.o
+debug/main.o
+debug/rectangle.o
+debug/text.o
+debug/turtleSim.o
+debug/turtle.o
+debug/sprite.o
+debug/polygon.o
+debug/commondefs.o
+debug/composite.o
+debug/line.o
+debug/moc_canvas.o

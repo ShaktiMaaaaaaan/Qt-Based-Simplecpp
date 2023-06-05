@@ -1,0 +1,16 @@
+release/color.o
+release/sim.o
+release/xevent.o
+release/circle.o
+release/ellipse.o
+release/main.o
+release/rectangle.o
+release/text.o
+release/turtleSim.o
+release/turtle.o
+release/sprite.o
+release/polygon.o
+release/commondefs.o
+release/composite.o
+release/line.o
+release/moc_canvas.o
