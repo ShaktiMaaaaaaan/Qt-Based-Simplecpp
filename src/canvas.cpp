@@ -149,7 +149,7 @@ void closeCanvas() {
 }
 
 double randuv(double u, double v) {
-    return u + (v - u) * QRandomGenerator::global()->generateDouble() / (1.0 + RAND_MAX);
+    return u + (v - u) * QRandomGenerator::global()->generateDouble() ;
 }
 
 void abort() {
